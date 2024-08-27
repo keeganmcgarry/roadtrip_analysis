@@ -1,0 +1,3 @@
+[submodule "roadtrip_data"]
+	path = roadtrip_data
+	url = https://github.com/keeganmcgarry/roadtrip_data
